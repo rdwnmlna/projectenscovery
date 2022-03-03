@@ -1,4 +1,4 @@
-# instaspamv4
+# ANDRIBOT
 🤖 An Instagram Reporting Bot.
 
 
